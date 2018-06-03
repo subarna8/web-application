@@ -1,4 +1,5 @@
 //task 1
+alert("hello")
 console.log("external JS");
 
 //task 2
