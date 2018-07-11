@@ -39,7 +39,7 @@ var library = [
        author: 'Steve Jobs',
        title: 'Walter Isaacson',
        readingStatus: true
-   },
+   ,
    {
        author: 'Suzanne Collins',
        title:  'Mockingjay: The Final Book of The Hunger Games',
